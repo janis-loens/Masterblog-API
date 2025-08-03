@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and settings
+.env
+*.env
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Local IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Compiled C files
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Flask instance folder
+instance/
+
+# pytest
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+
+# JSON or local data files (if storage should not be integrated)
+# storage/storage.json
